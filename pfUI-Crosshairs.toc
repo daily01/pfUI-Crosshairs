@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: |cff33ffccpf|rUI |cffcccccc[|r|cff6666ffCrosshairs|r|cffcccccc]|r
+## Author:咸鱼
+## Notes: A pfUI extension that adds target crosshairs to nameplates.
+## Version: 1.0
+## Dependencies: pfUI
+
+
+# 加载主逻辑
+pfUI-Crosshairs.lua
